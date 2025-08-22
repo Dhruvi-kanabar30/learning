@@ -1,4 +1,4 @@
 # learning
 this is my first git repositiory
 <br>
-author-Dhruvi Kanabar
+author-Dhruvi Kanabar(Thakkar)
